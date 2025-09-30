@@ -88,10 +88,6 @@ Feel free to fork this repo and submit pull requests.
 - 📩 naveenkv681@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-kumar-viruvuru/)
 
-## ✨ Detect fraud early. Save money. Protect trust.
+*✨ Detect fraud early. Save money. Protect trust.*
 
 
-
-If you want, I can **also add a GIF/animated screenshot of the Streamlit app** at the top for an even more eye-catching GitHub presentation. It makes recruiters notice your project faster.  
-
-Do you want me to do that?
